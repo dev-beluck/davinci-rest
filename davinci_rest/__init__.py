@@ -1,3 +1,3 @@
 from davinci_rest.client import DavinciRestClient
 
-__version__ = "0.1.4"
+__version__ = "0.1.5"
